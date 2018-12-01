@@ -1,4 +1,4 @@
-# NestedScrollViewInfiniteRecyclerView
+# Infinite Recycler View inside Nested Scroll View 
 Implementing Recycler View's Infinite scroll inside of Nested Scroll View in Android
 
 To Implement this we add a global scroll listener to our nested scroll view by first getting the ViewTreeObserver
@@ -30,3 +30,7 @@ addOnScrollChangedListener() method.
                 }
             }
         });
+        
+       
+ <br>
+ <img src="">
